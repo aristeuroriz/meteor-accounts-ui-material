@@ -2,14 +2,14 @@ ptBR = {
 	resetPasswordDialog: {
 		title: "Esqueceu sua senha?",
 		newPassword: "Nova senha",
-		newPasswordAgain: "Nova senha (confirmacao)",
+		newPasswordAgain: "Nova senha (confirmação)",
 		cancel: "Cancelar",
 		submit: "Alterar senha"
 	},
 	enrollAccountDialog: {
 		title: "Digite a nova senha",
 		newPassword: "Nova senha",
-		newPasswordAgain: "Nova senha (confirmacao)",
+		newPasswordAgain: "Nova senha (confirmação)",
 		cancel: "Fechar",
 		submit: "Alterar senha"
 	},
@@ -75,7 +75,7 @@ ptBR = {
 	changePasswordFields: {
 		currentPassword: "Senha atual",
 		newPassword: "Nova Senha",
-		newPasswordAgain: "Nova Senha (confirmacao)"
+		newPasswordAgain: "Nova Senha (confirmação)"
 	},
 	infoMessages: {
 		emailSent: "E-mail enviado",
